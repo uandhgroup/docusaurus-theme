@@ -21,7 +21,7 @@ export default {
 			transparent: 'transparent',
 			black: '#111111',
 			white: '#FFFFFF',
-			infinum: '#D8262C',
+			infinum: '#084c7e',
 			grey: {
 				100: '#F5F9FF',
 				200: '#E4EBF5',
