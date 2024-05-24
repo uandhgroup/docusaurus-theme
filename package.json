@@ -4,7 +4,7 @@
 	"description": "A collection of components and style overrides for Docusaurus pages in HHFTechTips's open-source projects",
 	"private": false,
 	"type": "module",
-	"main": "dist/hhftechtips-docusaurus-theme.js",
+	"main": "dist/infinum-docusaurus-theme.js",
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build",
